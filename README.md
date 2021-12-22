@@ -1,16 +1,10 @@
-# destini
+# DestiniApp
 
-A new Flutter project.
+An interactive adventure-story app which lets you decide your fate.
 
-## Getting Started
+### Working
+![Android Emulator - Nexus_6P_5554 2021-12-23 02-08-18](https://user-images.githubusercontent.com/81910954/147152620-6a28f13e-d6c6-4bd1-97f6-1bd08975d1b6.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+`Made with Flutter`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
